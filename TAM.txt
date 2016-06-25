@@ -1,0 +1,14 @@
+Doctors = 184345 (reference - http://www.hpcsa.co.za/Publications/Statistics)
+Lawyers = 23712 (reference - http://www.derebus.org.za/latest-statistics-legal-profession/)
+Hairdressors = 43000 (reference - http://www.news24.com/Archives/City-Press/Big-hair-big-business-20150429)
+
+
+A quick search on google play told us that most calendar apps are free, and on average cost R24 for the premium version
+
+Therefore
+
+Doctors = 184345 * R24 = R4,424,280
+Lawyers = 23712  * R24 = R569,088
+Hairdressors = 43000 * R24 = R1,032,000
+
+Our TAM = R 6,025,368
